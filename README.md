@@ -4,9 +4,6 @@
 ## 💬 Ask me about Web and Mobile Development related questions
 ## 📫 How to reach me: puneetbajaj591@gmail.com and if you have a job or internship opportunity then: puneet.internships@gmail.com
 
-##Stats (last updated on Mar 20, 2024): 
-![Puneet Kumar Bajaj langs](https://github.com/puneetkumarbajaj/puneetkumarbajaj/assets/49273253/cbb4a206-597f-4a79-9757-68e657b3faf5)
-![Puneet Kumar Bajaj Repos](https://github.com/puneetkumarbajaj/puneetkumarbajaj/assets/49273253/7b09a2db-a09e-41fb-b43f-a00c5788cd00)
 
 
 <!--
