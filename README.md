@@ -1,8 +1,8 @@
 ### Hi there 👋
-## 🔭 I’m currently working on Applify
-## 👯 I’m looking to collaborate on any React or Swift development projects
-## 💬 Ask me about Web and Mobile Development related questions
-## 📫 How to reach me: puneetbajaj591@gmail.com and if you have a job or internship opportunity then: puneet.internships@gmail.com
+### 🔭 I’m currently working on Applify
+### 👯 I’m looking to collaborate on any React or Swift development projects
+### 💬 Ask me about Web and Mobile Development related questions
+### 📫 How to reach me: puneetbajaj591@gmail.com and if you have a job or internship opportunity then: puneet.internships@gmail.com
 
 
 
